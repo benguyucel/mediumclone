@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;1,200;1,400;500&family=Roboto:wght@100;300;400;500&display=swap');
+html,
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 62.5%;
+}
+
+.bg-orange {
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #111;
+}
+
+.border-bottom-light {
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+
+.writer-photo {
+    width: 30px;
+    height: 30px;
+}
+
+.username {
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+
+/* navbar */
+
+.medium-navbar {
+    height: 77px;
+}
+
+.medium-navbar .navbar-brand img {
+    max-width: 170px;
+}
+
+.medium-navbar .navbar-collapse .navbar-nav {
+    gap: 1.4rem;
+}
+
+.medium-navbar .navbar-collapse .navbar-nav .nav-item a {
+    font-size: 1.5rem;
+}
+
+.medium-navbar .navbar-collapse .navbar-nav .nav-item .get-started {
+    border-radius: 2rem
+}
+
+
+/* navbar */
+
+
+/* header */
+
+
+/* header */
+
+.header {
+    padding-bottom: 5rem;
+}
+
+.header .header-right {
+    margin-top: 7rem;
+}
+
+.header .lead {
+    font-size: 8rem;
+    font-weight: bold;
+}
+
+.header .header-text {
+    width: 80%;
+    font-size: 1.9rem;
+}
+
+.header .button-header a {
+    font-size: 2rem;
+    border-radius: 2rem;
+}
+
+
+/* header */
+
+
+/* Trending Title */
+
+.trending i {
+    font-size: 1.4rem;
+}
+
+.trending .trend-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.trending .trend-item .trend-number {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(230, 230, 230);
+    font-size: 2.8rem;
+}
+
+.trending .trend-item .trend-middle-side .news-title {
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+.trending .trend-item .trend-bottom-side .trend-post-date {
+    font-size: 1.4rem;
+    color: rgb(143, 142, 142);
+}
+
+.content .content-middle .content-title {
+    font-size: 1.9rem;
+    font-weight: bold;
+}
+
+.content .content-middle .content-short-text {
+    font-size: 1.5rem;
+    line-height: 120%;
+    color: rgb(143, 142, 142);
+}
+
+.content .content-bottom {
+    font-size: 1.4rem;
+}
+
+.content .content-bottom .badge {
+    font-weight: normal;
+    color: rgb(173, 171, 171)!important;
+    padding: .5rem;
+    font-size: 1.2rem;
+}
+
+.right-side .right-side-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.right-side .tags a {
+    display: inline-block;
+    text-transform: capitalize;
+    letter-spacing: 0.1rem;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: rgb(143, 142, 142);
+    border: 1px solid rgba(230, 230, 230, 1);
+    padding: .5rem 2rem;
+    border-radius: .3rem;
+    margin: 0 .2rem 1rem 0;
+}
+
+footer a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: rgb(143, 142, 142);
+}
+
+
+/* Trending Title */
